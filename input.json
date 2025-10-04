@@ -1,0 +1,14 @@
+{
+  "currency": "USD",
+  "search": "New York",
+  "check_in": "2025-10-15",
+  "check_out": "2025-10-21",
+  "minMaxPrice": "200-300",
+  "minScore": 4,
+  "propertyType": "Hotels",
+  "sortBy": "bayesian_review_score",
+  "adults": 2,
+  "children": 0,
+  "rooms": 1,
+  "maxitems": 10
+}

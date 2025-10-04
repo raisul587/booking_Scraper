@@ -1,0 +1,3 @@
+# Runtime dependencies
+# Selenium 4.6+ includes Selenium Manager which auto-downloads drivers.
+selenium>=4.20.0,<5
