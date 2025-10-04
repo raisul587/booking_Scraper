@@ -17,8 +17,7 @@ It uses:
 
 ## Requirements
 - Python 3.9+
-- Google Chrome installed
-- Selenium (Selenium Manager auto-downloads ChromeDriver)
+- Selenium 
 
 Install deps:
 ```bash
